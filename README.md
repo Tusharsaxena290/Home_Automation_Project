@@ -6,3 +6,5 @@
 
 ## NODE-RED-DASHBOARD
 
+<img width="958" alt="dashboard" src="https://user-images.githubusercontent.com/53862641/103437257-7985c480-4c4b-11eb-8103-05685ff37ef7.png">
+
