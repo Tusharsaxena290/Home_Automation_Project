@@ -9,6 +9,9 @@ Node Red is a flow based tool, which lets you easily build IOT and homeautomatio
  ```bash
  node --version && npm --version
  ```
+ 
+   <img width="286" alt="ss" src="https://user-images.githubusercontent.com/53862641/103481737-dd062280-4e02-11eb-8f09-cc30487c9fc3.png" align="middle">
+
 
 ## 2.Install node-red using the command stated below: 
 ``` bash
