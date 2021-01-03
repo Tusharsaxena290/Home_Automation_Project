@@ -27,7 +27,7 @@ npm install -g --unsafe-perm node-red
 
 
 # Install Node-red-dashboard
-To install the dashboard use the command stated below:
+## To install the dashboard use the command stated below:
 ``` bash
 npm install node-red-dashboard
 ```
@@ -50,7 +50,7 @@ Drag and drop the desired palletes for your project. To learn more about node-re
 
 # Connecting the whole system with Google Assistant:
 
-## NORA(NOde-Red home Automation)- There is a generated token that authorises Nora user to access Google Home API (sign up link). Once configured, you can start dropping devices into your NodeRED flows. TOKEN TO BE GENERATED IS UNIQUE.
+ NORA(NOde-Red home Automation)- There is a generated token that authorises Nora user to access Google Home API (sign up link). Once configured, you can start dropping devices into your NodeRED flows. TOKEN TO BE GENERATED IS UNIQUE.
 
 <img width="844" alt="ssnew" src="https://user-images.githubusercontent.com/53862641/103481297-112c1400-4e00-11eb-9e7d-7b93a0bebbab.png">
 
