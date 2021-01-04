@@ -58,6 +58,10 @@ Drag and drop the desired palletes for your project. To learn more about node-re
 <img width="844" alt="ssnew" src="https://user-images.githubusercontent.com/53862641/103481297-112c1400-4e00-11eb-9e7d-7b93a0bebbab.png">
 
 
+![snap-shot of mobile1](https://user-images.githubusercontent.com/53862641/103516754-0c666f00-4e97-11eb-81cd-3cf445df18b6.png )
+
+
+
 
 
 
